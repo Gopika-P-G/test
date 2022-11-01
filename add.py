@@ -13,3 +13,7 @@ if tree == 1:
     print("plant 10tree")
 else:
     print("plant 5 tree")
+
+name = input(" what is your name:")
+
+print(f"hello {name} welcome to olive garden")
